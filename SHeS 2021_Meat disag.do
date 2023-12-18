@@ -1,9 +1,7 @@
 
-******************************************************************
-*Comparing estimates of meat intake with new vs old disaggregation
-
-*Do file for merging meat disag file with SHeS 2021 diet data
-******************************************************************
+*******************************************************************************
+*Comparing estimates of meat intake with new vs old disaggregation in SHeS 2021
+*******************************************************************************
 
 
 ****************
